@@ -6,3 +6,5 @@ Example included.
 ## Installation
 
 ```bash
+pip install requirements.txt
+```
